@@ -1,4 +1,11 @@
 eclipse.preferences.version=1
 encoding//src/test/C01_SalesForceLogin_Test_A1EDA0AA12B91F80CB29E33837323934.java=UTF-8
+encoding//src/test/C02_SalesforceAccountCreation_Test_A1EDA0AC24966AD0CB29E33837323934.java=UTF-8
+encoding//src/test/C03_SalesforceContactsCreation_Test_A1EDA0AC7745DE33CB29E33837323934.java=UTF-8
+encoding//src/test/C04_SalesforceLeadsCreation_Test_A1EDA0AC88292433CB29E33837323934.java=UTF-8
+encoding//src/test/C05_SalesforceOpportunitiesCreation_Test_A1EDA0AC9E85EFC7CB29E33837323934.java=UTF-8
+encoding//src/test/C06_SalesforceProductCreation_Test_A1EDA0AE5BB16720CB29E33837323934.java=UTF-8
+encoding//src/test/C07_SalesForceLogout_Test_A1EDA0AB87C41679CB29E33837323934.java=UTF-8
+encoding//src/test/EndToEnd_Salesforces_CompoundTest_A1EDA0AD2330CAE0CB29E33837323934.java=UTF-8
 encoding//src/test/SalesForceNavigation_Test_A1EDA0A64301A530CB29E33837323934.java=UTF-8
 encoding/<project>=UTF-8
